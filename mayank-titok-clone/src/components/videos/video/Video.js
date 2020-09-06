@@ -30,6 +30,8 @@ function Video() {
         src="https://scontent-maa2-1.cdninstagram.com/v/t50.2886-16/118909117_746606709403402_1619668498393146080_n.mp4?_nc_ht=scontent-maa2-1.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=NH_F3FjIGiAAX_y3BX8&amp;oe=5F55DA90&amp;oh=6addbb6012490238421ff6ced34c9c3c"
         type="video/mp4"
       ></video>
+      <VideoFooter />
+      <VideoSidebar />
     </div>
   );
 }

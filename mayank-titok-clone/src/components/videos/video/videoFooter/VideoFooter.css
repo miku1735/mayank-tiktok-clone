@@ -1,0 +1,23 @@
+.VideoFooter {
+  position: relative;
+  color: white;
+  bottom: 120px;
+  margin-left: 40px;
+  display: flex;
+}
+
+.VideoFooter__text {
+  flex: 1;
+}
+
+.VideoFooter__text > p {
+  padding-bottom: 20px;
+}
+
+.VideoFooter_ticker {
+  display: flex;
+}
+.VideoFooter_ticker > .ticker {
+  margin-left: 30px;
+  width: 60%;
+}
