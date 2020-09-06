@@ -1,3 +1,10 @@
-.App{
-  
+html {
+  /* scroll-snap-type: y mandatory; */
+}
+
+.App {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  background-color: rgba(0, 0, 0, 0.9);
 }

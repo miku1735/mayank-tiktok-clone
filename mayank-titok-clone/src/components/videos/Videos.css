@@ -1,0 +1,13 @@
+.Videos {
+  position: relative;
+  height: 650px;
+  width: 80%;
+  max-width: 500px;
+  border-radius: 20px;
+  overflow: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+.Videos::-webkit-scrollbar {
+  display: none;
+}

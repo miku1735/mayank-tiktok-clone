@@ -1,10 +1,11 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
+import Videos from "./components/videos/Videos";
 
 function App() {
   return (
     <div className="App">
-      <h1>hello from front end</h1>
+      <Videos />
     </div>
   );
 }
